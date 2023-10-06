@@ -1,0 +1,11 @@
+body
+{
+    background-image: url(estopa.jpeg);
+
+    background-size: 100% 100%;
+
+    background-attachment: fixed;
+
+    background-repeat: no-repeat;
+    
+}
